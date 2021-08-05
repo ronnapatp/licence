@@ -34,3 +34,4 @@ npm install discord.js
 ```
 node .
 ```
+[Click here to back](https://github.com/ronnapatp/licence/Readme.md)
